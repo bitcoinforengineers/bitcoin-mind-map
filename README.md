@@ -1,4 +1,5 @@
 # bitcoin-mind-map
+
 The Bitcoin Memory Map: A DIY Mnemonic Grid for Your Seed Phrase
 📖 Project Overview
 "The Bitcoin Memory Map" is an innovative, open-source project designed to help individuals securely store and memorize their Bitcoin (and other cryptocurrency) seed phrases without writing the actual words in plain text. Instead of relying solely on physical paper backups that can be lost or compromised, this system enables users to encode their seed phrase into a series of easily memorizable coordinates within a standardized grid.
