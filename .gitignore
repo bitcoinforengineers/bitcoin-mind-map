@@ -1,0 +1,10 @@
+# Ignore common operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore any temporary or build files if you were to process the markdown
+*.bak
+*.tmp
+*.log
+/build/
+/dist/
